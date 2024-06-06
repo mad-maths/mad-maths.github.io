@@ -13,7 +13,7 @@
 title: My website
 
 # Your name to show in the footer
-author: Some Person
+author: Kashish Jaswani
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -100,7 +100,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://mad-maths.github.io/"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
