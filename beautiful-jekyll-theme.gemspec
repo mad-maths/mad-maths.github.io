@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "beautiful-jekyll-theme"
+  spec.name          = "References and other links"
   spec.version       = "6.0.1"
   spec.authors       = ["Dean Attali"]
   spec.email         = ["daattali@gmail.com"]
