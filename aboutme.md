@@ -1,5 +1,4 @@
 ---
 layout: page
-title: About me
-subtitle: 
----.
+title: A little bit about me!
+---
