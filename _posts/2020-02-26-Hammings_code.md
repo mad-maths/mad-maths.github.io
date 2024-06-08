@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Hamming's Code
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
