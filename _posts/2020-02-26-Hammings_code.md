@@ -24,16 +24,23 @@ The sender chooses the codeword such that the following three properties are sat
 3. $c_4 + c_5 + c_6 + c_7$ = 0
 
 Let the received word be $\textbf{x} = {x_1,x_2,..,x_7}$
+
 Calculate the following values,
 1. $z_1 = x_1 + x_3 + x_5 + x_7$
 2. $z_2 = x_2 + x_3 + x_6 + x_7$
 3. $z_3 = x_4 + x_5 + x_6 + x_7$
+
 In these equations, addition is modulo 2. 
+
 Observe the relationship (particularly, the indices) between the two sets of equations.
 
-Now we see something interesting happen. If our sent codeword matches the received word (no errors occur in transmission), then $z_1, z_2$ and $z_3$ should all be equal to 0.
+Now we see something interesting happen.
 
-But if a single error occurs, even then this code can detect where the error is. How?
+If our sent codeword matches the received word (no errors occur in transmission), then $z_1, z_2$ and $z_3$ should all be equal to 0.
+
+But if a single error occurs, even then this code can detect where the error is. 
+
+How?
 Let's take an example.
 
 Suppose our third bit ($c_3$) was flipped during transmission, hence there is an error in the third place ($x_3$).
