@@ -6,6 +6,7 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [Hamming,code,error correction]
 author: Kashish Jaswani
+mathjax: true
 ---
 "Damn it, if the machine can detect an error, why can't it locate the position of the error and correct it?"
 
