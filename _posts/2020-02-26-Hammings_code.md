@@ -13,10 +13,9 @@ mathjax: true
 This frustration led to the first ever error correcting code, which opened up new ideas in the field of error correction.
 Before Richard Hamming came up with his code, even the thought of 'error-correcting codes' seemed absurd, out-of-question. 
 
-When I came across this code, the simple-genius of it all surprised me, and I get more excited every time I tell anyone about it. So, it seemes only fair to talk about this code in my first blog post. Here we go.
+When I came across this code, the simple-genius of it all surprised me, and I get more excited every time I tell anyone about it. So, it is only fair to talk about this code in my first blog post. Here we go.
 
-We work in ${F_2}^{7}$ where a codeword  $\textbf{c}$  is of the form ${c_1,c_2...c_7}$. 
-(Each $c_i$ is either 0 or 1)
+We work in ${F_2}^{7}$, which means that a codeword  $\textbf{c}$ is of the form ${c_1,c_2...c_7}$ and each $c_i$ is either 0 or 1.
 
 The sender chooses the codeword such that the following three properties are satisfied - 
 1. $c_1 + c_3 + c_5 + c_7$ = 0
@@ -52,5 +51,8 @@ Suppose our sixth bit ($c_6$) was flipped during transmission, hence there is an
 This means $z_2$ and $z_3$ will be equal to 1. 
 Note that then $2z_2 + 4z_3$ = 6, the error term. (normal addition)
 
-Testing it out for more terms, we arrive at the beautiful result, that the error digit can be found out by simply calculating -
-$z_1 + 2z_2 + 4z_3$!
+Testing it out for more terms, we arrive at the beautiful result, that the error digit can be found out by simply calculating - 
+
+$z_1 + 2z_2 + 4z_3$ !
+
+We can clearly see the inutition behind this final formula, an error in the seventh bit gives value 1 for all, $z_1$, $z_2$, $z_3$. Plug it into the above equation and we get 7. I encourage you to check this for the other digits too.
