@@ -7,22 +7,6 @@ share-img: /assets/img/path.jpg
 tags: [Hamming,code,error correction]
 author: Kashish Jaswani
 ---
-<head>
-  <script>
-  MathJax = {
-     tex: {
-       inlineMath: [['$', '$'], ['\\(', '\\)']]
-     }
-  };
-  </script>
-  <script type="text/javascript" id="MathJax-script" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.0.0/es5/latest?tex-mml-chtml.js">
-  </script>
-</head>
-
-
-
-
 "Damn it, if the machine can detect an error, why can't it locate the position of the error and correct it?"
 
 This frustration led to the first ever error correcting code, which opened up new ideas in the field of error correction.
