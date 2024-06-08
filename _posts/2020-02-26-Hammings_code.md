@@ -8,6 +8,13 @@ tags: [Hamming,code,error correction]
 author: Kashish Jaswani
 ---
 <head>
+  <script>
+  MathJax = {
+     tex: {
+       inlineMath: [['$', '$'], ['\\(', '\\)']]
+     }
+  };
+  </script>
   <script type="text/javascript" id="MathJax-script" async
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.0.0/es5/latest?tex-mml-chtml.js">
   </script>
