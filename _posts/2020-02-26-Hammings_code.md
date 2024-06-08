@@ -7,7 +7,9 @@ share-img: /assets/img/path.jpg
 tags: [Hamming,code,error correction]
 author: Kashish Jaswani
 ---
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+
+</script>
 
 "Damn it, if the machine can detect an error, why can't it locate the position of the error and correct it?"
 
