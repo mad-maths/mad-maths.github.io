@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Hamming's Code
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
@@ -7,13 +7,6 @@ share-img: /assets/img/path.jpg
 tags: [Hamming,code,error correction]
 author: Kashish Jaswani
 ---
-
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6">
-</script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
-
-
 "Damn it, if the machine can detect an error, why can't it locate the position of the error and correct it?"
 
 This frustration led to the first ever error correcting code, which opened up new ideas in the field of error correction.
