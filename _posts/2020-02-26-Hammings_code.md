@@ -15,7 +15,7 @@ Before Richard Hamming came up with his code, even the thought of 'error-correct
 
 When I came across this code, the simple-genius of it all surprised me. Let us look at what this code does.
 
-We work in ${F_2}^{7}$ where a codeword  $\textbf{c}$  is of the form {c_1,c_2...c_7}. 
+We work in ${F_2}^{7}$ where a codeword  $\textbf{c}$  is of the form ${c_1,c_2...c_7}$. 
 (Each $c_i$ is either 0 or 1)
 
 The sender chooses the codeword such that the following three properties are satisfied - 
