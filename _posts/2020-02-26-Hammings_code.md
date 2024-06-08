@@ -19,8 +19,7 @@ We work in \\mathbb{F_2}^{7}\\ where a codeword \\ \textbf{c}\\ is of the form {
 (Each \\c_i\\ is either 0 or 1)
 
 The sender chooses the codeword such that the following three properties are satisfied - 
-1. \\c_1 + c_3 + c_5 + c_7\\ = 0
-2. \\c_2 + c_3 + c_6 + c_7\\ = 0
+1. $$c_1 + c_3 + c_5 + c_7$$ = 0 2. $$c_2 + c_3 + c_6 + c_7$$ = 0
 3. \\c_4 + c_5 + c_6 + c_7\\ = 0
 
 Let the received word be $\textbf{x} = {x_1,x_2,..,x_7}$
