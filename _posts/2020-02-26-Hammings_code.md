@@ -7,10 +7,7 @@ share-img: /assets/img/path.jpg
 tags: [Hamming,code,error correction]
 author: Kashish Jaswani
 ---
-<head>
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-</head>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 "Damn it, if the machine can detect an error, why can't it locate the position of the error and correct it?"
 
