@@ -13,7 +13,7 @@ mathjax: true
 This frustration led to the first ever error correcting code, which opened up new ideas in the field of error correction.
 Before Richard Hamming came up with his code, even the thought of 'error-correcting codes' seemed absurd, out-of-question. 
 
-When I came across this code, the simple-genius of it all surprised me. Let us look at what this code does.
+When I came across this code, the simple-genius of it all surprised me, and I get more excited every time I tell anyone about it. So, it seemes only fair to talk about this code in my first blog post. Here we go.
 
 We work in ${F_2}^{7}$ where a codeword  $\textbf{c}$  is of the form ${c_1,c_2...c_7}$. 
 (Each $c_i$ is either 0 or 1)
