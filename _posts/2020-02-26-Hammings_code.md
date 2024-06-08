@@ -29,7 +29,7 @@ Calculate the following values,
 2. $z_2 = x_2 + x_3 + x_6 + x_7$
 3. $z_3 = x_4 + x_5 + x_6 + x_7$
 
-Observe the relationship between the two sets of equations.
+Observe the relationship (particularly, the indices) between the two sets of equations.
 
 Now we see something interesting happen. If our sent codeword matches the received word (no errors occur in transmission), then $z_1, z_2$ and $z_3$ should all be equal to 0.
 
