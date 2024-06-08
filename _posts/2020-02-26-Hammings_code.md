@@ -28,7 +28,7 @@ Calculate the following values,
 1. $z_1 = x_1 + x_3 + x_5 + x_7$
 2. $z_2 = x_2 + x_3 + x_6 + x_7$
 3. $z_3 = x_4 + x_5 + x_6 + x_7$
-
+In these equations, addition is modulo 2. 
 Observe the relationship (particularly, the indices) between the two sets of equations.
 
 Now we see something interesting happen. If our sent codeword matches the received word (no errors occur in transmission), then $z_1, z_2$ and $z_3$ should all be equal to 0.
@@ -37,12 +37,12 @@ But if a single error occurs, even then this code can detect where the error is.
 Let's take an example.
 
 Suppose our third bit ($c_3$) was flipped during transmission, hence there is an error in the third place ($x_3$).
-This means $z_1$ and $z_2$ will be equal to 1 (here, addition is modulo 2). 
+This means $z_1$ and $z_2$ will be equal to 1. 
 Note that then $z_1 + 2z_2$ = 3, the error term. (normal addition)
 
 Taking another example, 
 Suppose our sixth bit ($c_6$) was flipped during transmission, hence there is an error in the third place ($x_6$).
-This means $z_2$ and $z_3$ will be equal to 1 (here, addition is modulo 2). 
+This means $z_2$ and $z_3$ will be equal to 1. 
 Note that then $2z_2 + 4z_3$ = 6, the error term. (normal addition)
 
 Testing it out for more terms, we arrive at the beautiful result, that the error digit can be found out by simply calculating -
