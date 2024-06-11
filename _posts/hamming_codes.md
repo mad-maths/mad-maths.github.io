@@ -2,6 +2,7 @@
 layout: post
 title: Hamming's Code
 tags: [Hamming,code,error correction]
+date: 2024-06-11
 author: Kashish Jaswani
 mathjax: true
 ---
