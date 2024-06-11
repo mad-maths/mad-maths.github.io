@@ -2,7 +2,7 @@
 layout: post
 title: Hamming's Code
 tags: [Hamming,code,error correction]
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/hamming.jpg
 author: Kashish Jaswani
 mathjax: true
 ---
