@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Hamming's Code
+title: <div style = "text-align: center;">
+Hamming's Code </div>
 tags: [Hamming,code,error correction]
 author: Kashish Jaswani
 mathjax: true
