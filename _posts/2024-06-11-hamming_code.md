@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hamming's Code
+title: <div class="text-center"> Hamming's Code </div>
 tags: [Hamming,code,error correction]
 date: 2024-06-11
 author: Kashish Jaswani
