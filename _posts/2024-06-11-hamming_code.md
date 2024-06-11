@@ -4,6 +4,7 @@ title: Hamming's Code
 tags: [Hamming,code,error correction]
 date: 2024-06-11
 author: Kashish Jaswani
+thumbnail-img: /assets/img/hamming.jpg
 mathjax: true
 ---
 "Damn it, if the machine can detect an error, why can't it locate the position of the error and correct it?"
