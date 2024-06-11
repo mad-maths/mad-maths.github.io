@@ -6,4 +6,4 @@ I am currently pursuing a Bachelor's in Maths, and I made this blog because typi
 
 Here's my email - jaswanikashish12@gmail.com
 
-And here's the google form to subscribe to this blog - 
+And here's the google form to subscribe to this blog - https://docs.google.com/forms/d/e/1FAIpQLSeTZiwy-FhSm6Jk_lOAh74DxcmLywZS7RfJDOryZvTaj1gYbA/viewform?usp=sf_link
