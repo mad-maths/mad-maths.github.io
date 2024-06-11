@@ -44,12 +44,12 @@ Let's take an example.
 
 Suppose our third bit ($c_3$) was flipped during transmission, hence there is an error in the third place ($x_3$).
 This means $z_1$ and $z_2$ will be equal to 1. 
-Note that then $z_1 + 2z_2$ = 3, the error term. (normal addition)
+Note that then $z_1 + 2z_2$ = 3, the error term (normal addition).
 
 Taking another example, 
 Suppose our sixth bit ($c_6$) was flipped during transmission, hence there is an error in the third place ($x_6$).
 This means $z_2$ and $z_3$ will be equal to 1. 
-Note that then $2z_2 + 4z_3$ = 6, the error term. (normal addition)
+Note that then $2z_2 + 4z_3$ = 6, the error term (normal addition).
 
 Testing it out for more terms, we arrive at the beautiful result, that the error digit can be found out by simply calculating - 
 
