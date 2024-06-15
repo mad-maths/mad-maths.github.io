@@ -53,3 +53,7 @@ Note that then $2z_2 + 4z_3$ = 6, the error term (normal addition).
 Testing it out for more terms, we arrive at the beautiful result, that the error digit can be found out by simply calculating - 
 
 $z_1 + 2z_2 + 4z_3$ !
+
+References - 
+1. Lecture notes on Coding and Cryptography, by T.W. Korner.
+2. The holder of copyright for the image is unknown, but it was taken from [here](https://archon.library.illinois.edu/archives/index.php?p=digitallibrary/digitalcontent&id=11804)
