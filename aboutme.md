@@ -6,4 +6,3 @@ Hi, I am Kashish. I am currently pursuing a Bachelor's in Mathematics. In this j
 
 Here's my email - jaswanikashish12@gmail.com
 
-And [click here](https://docs.google.com/forms/d/e/1FAIpQLSeTZiwy-FhSm6Jk_lOAh74DxcmLywZS7RfJDOryZvTaj1gYbA/viewform?usp=sf_link) to subscribe to this blog.
