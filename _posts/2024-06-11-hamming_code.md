@@ -58,5 +58,6 @@ $z_1 + 2z_2 + 4z_3$ !
 References - 
 1. Lecture notes on Coding and Cryptography, by T.W. Korner.
 2. The holder of copyright for the image is unknown, but it was taken from [here](https://archon.library.illinois.edu/archives/index.php?p=digitallibrary/digitalcontent&id=11804)
+
 And [click here](https://docs.google.com/forms/d/e/1FAIpQLSeTZiwy-FhSm6Jk_lOAh74DxcmLywZS7RfJDOryZvTaj1gYbA/viewform?usp=sf_link) to subscribe to this blog.
 
