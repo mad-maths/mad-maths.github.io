@@ -37,7 +37,7 @@ So, in a free vector space, each element of the set is considered as a basis vec
 
 $\textbf{Now we will look at the construction of tensor products:}$
 
-Consider the set S = {$v \ast w, v \in V, w \in W$}
+Consider the set S = {v $\ast$ w, v $\in$ V, w $\in$ W}
 
 Note that here, the $\ast$ is just a symbol, do not think of it as an operation.
 
@@ -47,7 +47,7 @@ Then an elements of the set S looks like,
 
 $\begin{pmatrix} 1 \\ 5 \\ 2\end{pmatrix} \ast \begin{pmatrix} 2 \\ 3 \\ 8\end{pmatrix}$ with no way of simplifying these.
 
-Now consider V(S) = span{$v \ast w, v \in V, w \in W$}. 
+Now consider V(S) = span{v $\ast$ w, v $\in$ V, w $\in$ W}. 
 
 Let $V(S) = V \ast W.$ 
 
@@ -72,7 +72,7 @@ $span\[ \begin{cases}
 \]$
 
 and now finally, let,
-$\begin{center}$ \textbf{$V \otimes W$ = $\faktor{V \ast W}{I}$}. $\end{center}$
+<center> $\textbf{$V \otimes W$ = $\faktor{V \ast W}{I}}$. </center> 
 
 To demonstrate how the desired properties are satisfied, we take the element 
 
