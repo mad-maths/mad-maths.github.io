@@ -88,7 +88,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "math, hamming"
+#keywords: "math, hamming, tensor products"
 
 ######################################
 # --- Colours / background image --- #
