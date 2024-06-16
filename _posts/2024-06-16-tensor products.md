@@ -101,9 +101,10 @@ $span\[ \begin{cases}
 \]$
 {% endraw %}
 and now finally, let,
+
 {% raw %}
 $$
-<center> V \otimes W = \faktor{V \ast W}{I}. </center>
+<center> V \otimes W = \frac{V \ast W}{I}. </center>
 $$
 {% endraw %}
 
