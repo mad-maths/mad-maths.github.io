@@ -49,12 +49,12 @@ $$
 5 \\ 
 2
 \end{bmatrix} 
-$$ $\ast$  $$ \begin{bmatrix} 
+$$ $\ast$  $\begin{bmatrix} 
 2 \\ 
 3 \\ 
 8
 \end{bmatrix}
-$$
+$
 with no way of simplifying these.
 
 Now consider $V(S)$ = span{v $\ast$ w, v $\in$ V, w $\in$ W}. 
