@@ -103,9 +103,7 @@ $span\[ \begin{cases}
 and now finally, let,
 
 {% raw %}
-$$
-<center> V \otimes W = \faktor{V \ast W}{I}. </center>
-$$
+$V \otimes W = \faktor{V \ast W}{I}$. 
 {% endraw %}
 
 To demonstrate how the desired properties are satisfied, we take the element 
