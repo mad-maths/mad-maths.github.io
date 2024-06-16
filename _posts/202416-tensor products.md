@@ -45,7 +45,19 @@ To make this clear, consider V = $\mathbb{R}^3$ and W = $\mathbb{R}^3$.
 
 Then an elements of the set S looks like,
 
-$\begin{pmatrix} 1 \\ 5 \\ 2\end{pmatrix} \ast \begin{pmatrix} 2 \\ 3 \\ 8\end{pmatrix}$ with no way of simplifying these.
+$
+\begin{bmatrix} 
+1 \\ 
+5 \\ 
+2
+\end{bmatrix} \ast 
+\begin{bmatrix} 
+2 \\ 
+3 \\ 
+8
+\end{bmatrix}
+$ 
+with no way of simplifying these.
 
 Now consider V(S) = span{v $\ast$ w, v $\in$ V, w $\in$ W}. 
 
