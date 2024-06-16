@@ -102,9 +102,7 @@ $span\[ \begin{cases}
 {% endraw %}
 and now finally, let,
 <center>
-{% raw %}
-$V \otimes W = \faktor{V \ast W}{I}$. 
-{% endraw %}
+$V \otimes W = \frac{V \ast W}{I}$. 
 </center>
 
 To demonstrate how the desired properties are satisfied, we take the element 
