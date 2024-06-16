@@ -75,11 +75,11 @@ An example element of $V \ast W$ is
 $$
 $\ast$ 
 $$
-\begin{pmatrix} 
+\begin{bmatrix} 
 8 \\
 12 \\
 32 
-\end{pmatrix}
+\end{bmatrix}
 $$
 but again, we are dealing with formal sums, so there is absolutely no way to simplify this. 
 
@@ -91,6 +91,7 @@ Looking at the space $V \ast W$, it will be 'nice' if the elements satisfied som
 
 So, we consider the following set, 
 I = 
+{% raw %}
 $span\[ \begin{cases} 
      (cv) \ast w - c(v \ast w)
      v \ast (cw) - c(v \ast w)
@@ -98,9 +99,11 @@ $span\[ \begin{cases}
      v \ast (w_1 + w_2) - (v \ast w_1) - (v \ast w_2)
    \end{cases}
 \]$
-
+{% endraw %}
 and now finally, let,
+{% raw %}
 <center> $V \otimes W$ = $\faktor{V \ast W}{I}$. </center> 
+{% endraw %}
 
 To demonstrate how the desired properties are satisfied, we take the element 
 
