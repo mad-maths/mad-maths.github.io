@@ -17,19 +17,15 @@ This post assumes basic knowledge of vector spaces, basis and quotienting (cover
 $\textbf{We begin by defining a free vector space-}$
 
 Given a set S, the free vector space over $\mathbb{F}$ on S is the set of all finite formal sums of elements of S over $\mathbb{F}$. 
-
 Denote it by $V(S)$
 
 For example - 
-1. Let S = {x}
-   
-Then, $V(S)$ = {ax | a $\in$ R}.
-
-Note, V(S) $\cong$ $\mathbb{R}$ $\cong$ $\mathbb{R}$ x.
+1. Let S = {x}   
+   Then, $V(S)$ = {ax $|$ a $\in$ R}.
+   Note, V(S) $\cong$ $\mathbb{R}$ $\cong$ $\mathbb{R}$ x.
 
 2. Take S = R.
-
-$V(S)$ = $\{a_1v_1 + a_2v_2... + a_nv_n\}$
+   $V(S)$ = $\{a_1v_1 + a_2v_2... + a_nv_n\}$
 
 Note that we cannot combine $a_1v_1 + a_2v_2...a_nv_n$ using normal rules of multiplication since $v_1, v_2...v_n$ are linearly independent. 
 
@@ -50,8 +46,7 @@ $$
 1 \\ 
 5 \\ 
 2
-\end{bmatrix} \ast 
-\begin{bmatrix} 
+\end{bmatrix} $ $\ast$  \begin{bmatrix} 
 2 \\ 
 3 \\ 
 8
@@ -59,13 +54,21 @@ $$
 $$
 with no way of simplifying these.
 
-Now consider V(S) = span{v $\ast$ w, v $\in$ V, w $\in$ W}. 
+Now consider $V(S)$ = span{v $\ast$ w, v $\in$ V, w $\in$ W}. 
 
 Let $V(S) = V \ast W.$ 
 
 An example element of $V \ast W$ is
 
-2 $\begin{pmatrix} 1 \\ 5 \\ 2\end{pmatrix} \ast \begin{pmatrix} 8 \\ 12 \\ 32 \end{pmatrix}$ \\ but again, we are dealing with formal sums, so there is absolutely no way to simplify this. 
+2 $\begin{bmatrix} 
+1 \\
+5 \\ 
+2
+\end{bmatrix}$ $\ast$ \begin{pmatrix} 
+8 \\
+12 \\
+32 
+\end{pmatrix}$ \\ but again, we are dealing with formal sums, so there is absolutely no way to simplify this. 
 
 To re-emphasize, every single element of S serves as a basis element of this set, indicating that this is a very huge set we are dealing with. 
 
@@ -84,7 +87,7 @@ $span\[ \begin{cases}
 \]$
 
 and now finally, let,
-<center> $\textbf{$V \otimes W$ = $\faktor{V \ast W}{I}}$. </center> 
+<center> $V \otimes W$ = $\faktor{V \ast W}{I}$. </center> 
 
 To demonstrate how the desired properties are satisfied, we take the element 
 
@@ -100,6 +103,6 @@ We can verify all other properties in a similar fashion.
 
 Each element of $V \otimes W$ is an equivalence class which looks like ($v \ast w) + I$, which we will now denote by $v \otimes w$.
 
-\textbf{We have gotten our desired tensor product space.}
+<center> $\textbf{We have gotten our desired tensor product space.}$ </center>
 
 
