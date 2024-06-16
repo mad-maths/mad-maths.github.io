@@ -22,12 +22,14 @@ Denote it by $V(S)$
 For example - 
 1. Let S = {x}   
    Then, $V(S)$ = {ax $|$ a $\in$ R}.
+   
    Note, V(S) $\cong$ $\mathbb{R}$ $\cong$ $\mathbb{R}$ x.
 
-2. Take S = R.
+3. Take S = R.
+   
    $V(S)$ = $\{a_1v_1 + a_2v_2... + a_nv_n\}$
 
-Note that we cannot combine $a_1v_1 + a_2v_2...a_nv_n$ using normal rules of multiplication since $v_1, v_2...v_n$ are linearly independent. 
+Note that we cannot combine $a_1v_1 + a_2v_2...a_nv_n$ using normal rules of multiplication since $v_1, v_2..,v_n$ are linearly independent. 
 
 So, in a free vector space, each element of the set is considered as a basis vector, and each element is hence a finite sum of these basis vectors. Hence, this is a very large vector space. 
 
@@ -46,7 +48,11 @@ $$
 1 \\ 
 5 \\ 
 2
-\end{bmatrix} $ $\ast$  \begin{bmatrix} 
+\end{bmatrix} 
+$$
+$\ast$  
+$$
+\begin{bmatrix} 
 2 \\ 
 3 \\ 
 8
@@ -60,15 +66,22 @@ Let $V(S) = V \ast W.$
 
 An example element of $V \ast W$ is
 
-2 $\begin{bmatrix} 
+2 $$
+\begin{bmatrix} 
 1 \\
 5 \\ 
 2
-\end{bmatrix}$ $\ast$ \begin{pmatrix} 
+\end{bmatrix}
+$$
+$\ast$ 
+$$
+\begin{pmatrix} 
 8 \\
 12 \\
 32 
-\end{pmatrix}$ \\ but again, we are dealing with formal sums, so there is absolutely no way to simplify this. 
+\end{pmatrix}
+$$
+but again, we are dealing with formal sums, so there is absolutely no way to simplify this. 
 
 To re-emphasize, every single element of S serves as a basis element of this set, indicating that this is a very huge set we are dealing with. 
 
