@@ -49,10 +49,7 @@ $$
 5 \\ 
 2
 \end{bmatrix} 
-$$
-$\ast$  
-$$
-\begin{bmatrix} 
+$$ $\ast$  $$ \begin{bmatrix} 
 2 \\ 
 3 \\ 
 8
