@@ -23,7 +23,7 @@ Denote it by $V(S)$
 For example - 
 1. Let S = {x}
    
-Then, $V(S)$ = {$ax | a \in R$}.
+Then, $V(S)$ = {ax | a $\in$ R}.
 
 Note, V(S) $\cong$ $\mathbb{R}$ $\cong$ $\mathbb{R}$ x.
 
@@ -53,7 +53,7 @@ Let $V(S) = V \ast W.$
 
 An example element of $V \ast W$ is
 
-2$\begin{pmatrix} 1 \\ 5 \\ 2\end{pmatrix} \ast \begin{pmatrix} 8 \\ 12 \\ 32 \end{pmatrix}$ \\ but again, we are dealing with formal sums, so there is absolutely no way to simplify this. 
+2 $\begin{pmatrix} 1 \\ 5 \\ 2\end{pmatrix} \ast \begin{pmatrix} 8 \\ 12 \\ 32 \end{pmatrix}$ \\ but again, we are dealing with formal sums, so there is absolutely no way to simplify this. 
 
 To re-emphasize, every single element of S serves as a basis element of this set, indicating that this is a very huge set we are dealing with. 
 
@@ -72,7 +72,7 @@ $span\[ \begin{cases}
 \]$
 
 and now finally, let,
-\begin{center} \textbf{$V \otimes W$ = $\faktor{V \ast W}{I}$}. \end{center}
+$\begin{center}$ \textbf{$V \otimes W$ = $\faktor{V \ast W}{I}$}. $\end{center}$
 
 To demonstrate how the desired properties are satisfied, we take the element 
 
