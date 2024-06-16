@@ -82,7 +82,7 @@ By definition of I, $(cv) \ast w - c(v \ast w) \in I$
 
 Hence, $(cv) \ast w - c(v \ast w) = 0$
 
-and, $(cv) \ast w_1 = c(v \ast w)$.
+and, $(cv) \ast w = c(v \ast w)$.
 
 We can verify all other properties in a similar fashion.
 
