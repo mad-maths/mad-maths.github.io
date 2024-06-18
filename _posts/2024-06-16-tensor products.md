@@ -10,7 +10,7 @@ Throughout the texts I have encountered until now, the dreaded symbol $\otimes$ 
 occured when I was dipping my toes into Representation Theory. In my efforts to understand this new mystical object, I scoured the internet 
 and quickly realised that there are many interpretations of the tensor.
 
-This and upcoming blog posts is an attempt to make the different definitions easy to understand, and to show that they are not so different after all!
+This and upcoming blog posts is an attempt to make the different definitions easy to understand, and to show that they are not so different after all.
 
 This post assumes basic knowledge of vector spaces, basis and quotienting (covered in a previous blog post).
 
@@ -42,9 +42,7 @@ Note that here, the $\ast$ is just a symbol, do not think of it as an operation.
 To make this clear, consider V = $\mathbb{R}^3$ and W = $\mathbb{R}^3$.
 
 Then an elements of the set S looks like,
-
-$$
-\begin{bmatrix} 
+$ \begin{bmatrix} 
 1 \\ 
 5 \\ 
 2
@@ -69,22 +67,20 @@ An example element of $V \ast W$ is
 5 \\ 
 2
 \end{bmatrix}
-$$
-$\ast$ 
-$$
+$$ $\ast$ $
 \begin{bmatrix} 
 8 \\
 12 \\
 32 
 \end{bmatrix}
-$$
+$
 but again, we are dealing with formal sums, so there is absolutely no way to simplify this. 
 
 To re-emphasize, every single element of S serves as a basis element of this set, indicating that this is a very huge set we are dealing with. 
 
 It is from this huge set, we get our tensor product space. Let us see how - 
 
-Looking at the space $V \ast W$, it will be 'nice' if the elements satisfied some properties which align with our intuition of multiplication. For example, in the previous element it 'feels' like we should be able to multiply 2 or factor out a 4.\\
+Looking at the space $V \ast W$, it will be 'nice' if the elements satisfied some properties which align with our intuition of multiplication. For example, in the previous element it 'feels' like we should be able to multiply 2 or factor out a 4.
 
 So, we consider the following set, 
 I = 
