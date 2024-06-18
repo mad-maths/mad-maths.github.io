@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <div class="text-center"> The dreaded Tensor Product </div>
+title: <div class="text-center"> The dreaded tensors </div>
 tags: [Tensors, tensor product, simple explanantion of tensor product]
 date: 2024-06-16
 author: Kashish Jaswani
