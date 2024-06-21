@@ -42,7 +42,7 @@ Note that here, the $\ast$ is just a symbol, do not think of it as an operation.
 To make this clear, consider V = $\mathbb{R}^3$ and W = $\mathbb{R}^3$.
 
 Then an elements of the set S looks like,
-<img src = "/assets/img/first ast.png", style="width: 100px;">
+<img src = "/assets/img/first ast.png", style="width: 60%;">
 
 with no way of simplifying these.
 
