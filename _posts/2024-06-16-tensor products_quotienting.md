@@ -42,7 +42,7 @@ Note that here, the $\ast$ is just a symbol, do not think of it as an operation.
 To make this clear, consider V = $\mathbb{R}^3$ and W = $\mathbb{R}^3$.
 
 Then an elements of the set S looks like,
-<img src = "/assets/img/first ast.png">
+<img src = "/assets/img/first ast.png", width = 100>
 
 with no way of simplifying these.
 
@@ -51,7 +51,7 @@ Now consider $V(S)$ = span{v $\ast$ w, v $\in$ V, w $\in$ W}.
 Let $V(S) = V \ast W.$ 
 
 An example element of $V \ast W$ is
-<img src = "/assets/img/second ast.png">
+<img src = "/assets/img/second ast.png", width = 100>
 
 but again, we are dealing with formal sums, so there is absolutely no way to simplify this. 
 
@@ -63,10 +63,10 @@ Looking at the space $V \ast W$, it will be 'nice' if the elements satisfied som
 
 So, we consider the following set, 
 I = 
-<img src = "/assets/img/span.png">
+<img src = "/assets/img/span.png", width = 100>
 
 and now finally, let,
-<img src = "/assets/img/quotienting.png">
+<img src = "/assets/img/quotienting.png", width = 100>
 
 To demonstrate how the desired properties are satisfied, we take the element 
 
