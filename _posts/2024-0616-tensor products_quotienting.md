@@ -42,17 +42,7 @@ Note that here, the $\ast$ is just a symbol, do not think of it as an operation.
 To make this clear, consider V = $\mathbb{R}^3$ and W = $\mathbb{R}^3$.
 
 Then an elements of the set S looks like,
-$\begin{vmatrix} 
-1 \\ 
-5 \\ 
-2
-\end{vmatrix} 
-\ast  
-\begin{vmatrix} 
-2 \\ 
-3 \\ 
-8
-\end{vmatrix}$
+![first ast](/assets/images/first ast.png)
 with no way of simplifying these.
 
 Now consider $V(S)$ = span{v $\ast$ w, v $\in$ V, w $\in$ W}. 
@@ -61,19 +51,7 @@ Let $V(S) = V \ast W.$
 
 An example element of $V \ast W$ is
 
-2 $$
-\begin{bmatrix} 
-1 \\
-5 \\ 
-2
-\end{bmatrix}
-$$ $\ast$ $
-\begin{bmatrix} 
-8 \\
-12 \\
-32 
-\end{bmatrix}
-$
+![second](/assets/images/second ast.png)
 but again, we are dealing with formal sums, so there is absolutely no way to simplify this. 
 
 To re-emphasize, every single element of S serves as a basis element of this set, indicating that this is a very huge set we are dealing with. 
@@ -84,19 +62,9 @@ Looking at the space $V \ast W$, it will be 'nice' if the elements satisfied som
 
 So, we consider the following set, 
 I = 
-{% raw %}
-$span\[ \begin{cases} 
-     (cv) \ast w - c(v \ast w)
-     v \ast (cw) - c(v \ast w)
-     (v_1 + v_2) \ast w - (v_1 \ast w) + (v_2 \ast w)
-     v \ast (w_1 + w_2) - (v \ast w_1) - (v \ast w_2)
-   \end{cases}
-\]$
-{% endraw %}
+![span](/assets/images/span.png)
 and now finally, let,
-<center>
-$V \otimes W = \frac{V \ast W}{I}$. 
-</center>
+![quo](/assets/images/quotienting.png)
 
 To demonstrate how the desired properties are satisfied, we take the element 
 
