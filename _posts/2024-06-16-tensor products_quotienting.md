@@ -50,8 +50,7 @@ Now consider $V(S)$ = span{v $\ast$ w, v $\in$ V, w $\in$ W}.
 Let $V(S) = V \ast W.$ 
 
 An example element of $V \ast W$ is
-
-![second](/assets/img/second ast.png)
+<img src = "/assets/img/second ast.png">
 but again, we are dealing with formal sums, so there is absolutely no way to simplify this. 
 
 To re-emphasize, every single element of S serves as a basis element of this set, indicating that this is a very huge set we are dealing with. 
@@ -62,9 +61,9 @@ Looking at the space $V \ast W$, it will be 'nice' if the elements satisfied som
 
 So, we consider the following set, 
 I = 
-![span](/assets/img/span.png)
+<img src = "/assets/img/span.png">
 and now finally, let,
-![quo](/assets/img/quotienting.png)
+<img src = "/assets/img/quotienting.png">
 
 To demonstrate how the desired properties are satisfied, we take the element 
 
