@@ -42,17 +42,17 @@ Note that here, the $\ast$ is just a symbol, do not think of it as an operation.
 To make this clear, consider V = $\mathbb{R}^3$ and W = $\mathbb{R}^3$.
 
 Then an elements of the set S looks like,
-$\begin{bmatrix} 
+$\begin{vmatrix} 
 1 \\ 
 5 \\ 
 2
-\end{bmatrix} 
+\end{vmatrix} 
 \ast  
-\begin{bmatrix} 
+\begin{vmatrix} 
 2 \\ 
 3 \\ 
 8
-\end{bmatrix}$
+\end{vmatrix}$
 with no way of simplifying these.
 
 Now consider $V(S)$ = span{v $\ast$ w, v $\in$ V, w $\in$ W}. 
