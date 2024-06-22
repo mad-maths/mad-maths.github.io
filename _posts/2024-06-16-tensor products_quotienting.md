@@ -43,7 +43,7 @@ To make this clear, consider V = $\mathbb{R}^3$ and W = $\mathbb{R}^3$.
 
 Then an elements of the set S looks like,
 <center>
-<img src = "/assets/img/firstast.png" style = "width: 100px;"/>
+<img src = "/assets/img/firstast.png" style = "width: 200px;"/>
 </center>
 with no way of simplifying these.
 
@@ -53,7 +53,7 @@ Let $V(S) = V \ast W.$
 
 An example element of $V \ast W$ is
 <center>
-<img src = "/assets/img/secondast.png" style = "width: 100px;"/>
+<img src = "/assets/img/secondast.png" style = "width: 200px;"/>
 </center>
 but again, we are dealing with formal sums, so there is absolutely no way to simplify this. 
 
@@ -65,11 +65,11 @@ Looking at the space $V \ast W$, it will be 'nice' if the elements satisfied som
 
 So, we consider the following set, 
 I = 
-<img src = "/assets/img/span.png" style = "width: 100px;"/>
+<img src = "/assets/img/span.png" style = "width: 200px;"/>
 
 and now finally, let,
 <center>
-<img src = "/assets/img/quotienting.png" style = "width: 100px;"/>
+<img src = "/assets/img/quotienting.png" style = "width: 200px;"/>
 </center>
 
 To demonstrate how the desired properties are satisfied, we take the element 
