@@ -90,3 +90,5 @@ Each element of $V \otimes W$ is an equivalence class which looks like ($v \ast 
 
 References - 
 
+1. This topic was understood by watching the tensor products videos uploaded by Mu Prime Math on YouTube. 
+
