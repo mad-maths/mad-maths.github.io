@@ -12,7 +12,7 @@ and quickly realised that there are many interpretations of the tensor.
 
 This and upcoming blog posts is an attempt to make the different definitions easy to understand, and to show that they are not so different after all.
 
-This post assumes basic knowledge of vector spaces, basis and quotienting (will be covered).
+This post assumes basic knowledge of vector spaces, basis and quotienting (will be covered in a future blog post).
 
 $\textbf{We begin by defining a free vector space-}$
 
