@@ -65,7 +65,7 @@ Looking at the space $V \ast W$, it will be 'nice' if the elements satisfied som
 
 So, we consider the following set, 
 I = 
-<img src = "/assets/img/span.png" style = "width: 200px;"/>
+<img src = "/assets/img/span.png" style = "width: 280px;"/>
 
 and now finally, let,
 <center>
