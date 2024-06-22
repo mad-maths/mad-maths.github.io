@@ -1,7 +1,7 @@
 ---
 layout: post
-title: <div class="text-center"> The dreaded Tensor Product </div>
-tags: [Tensors, tensor product, simple explanantion of tensor product]
+title: <div class="text-center"> The dreaded 'Tensor Product' </div>
+tags: [Tensors, tensor product, explanantion of tensor product]
 date: 2024-06-16
 author: Kashish Jaswani
 mathjax: true
