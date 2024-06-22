@@ -42,8 +42,9 @@ Note that here, the $\ast$ is just a symbol, do not think of it as an operation.
 To make this clear, consider V = $\mathbb{R}^3$ and W = $\mathbb{R}^3$.
 
 Then an elements of the set S looks like,
+<center>
 [<img src = "/assets/img/firstast.png" style = "width: 80 px;"/>](assets/img/firstast.png/)
-
+</center>
 with no way of simplifying these.
 
 Now consider $V(S)$ = span{v $\ast$ w, v $\in$ V, w $\in$ W}. 
@@ -51,8 +52,9 @@ Now consider $V(S)$ = span{v $\ast$ w, v $\in$ V, w $\in$ W}.
 Let $V(S) = V \ast W.$ 
 
 An example element of $V \ast W$ is
+<center>
 [<img src = "/assets/img/secondast.png" style = "width: 80 px;"/>](assets/img/secondast.png/)
-
+</center>
 but again, we are dealing with formal sums, so there is absolutely no way to simplify this. 
 
 To re-emphasize, every single element of S serves as a basis element of this set, indicating that this is a very huge set we are dealing with. 
@@ -66,8 +68,9 @@ I =
 [<img src = "/assets/img/span.png" style = "width: 80 px;"/>](assets/img/span.png/)
 
 and now finally, let,
+<center>
 [<img src = "/assets/img/quotienting.png" style = "width: 80 px;"/>](assets/img/quotienting.png/)
-
+</center>
 
 To demonstrate how the desired properties are satisfied, we take the element 
 
