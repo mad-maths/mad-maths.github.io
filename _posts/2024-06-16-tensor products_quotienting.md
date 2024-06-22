@@ -43,7 +43,7 @@ To make this clear, consider V = $\mathbb{R}^3$ and W = $\mathbb{R}^3$.
 
 Then an elements of the set S looks like,
 <center>
-[<img src = "/assets/img/firstast.png" style = "width: 100px;"/>](assets/img/firstast.png/)
+<img src = "/assets/img/firstast.png" style = "width: 100px;"/>
 </center>
 with no way of simplifying these.
 
