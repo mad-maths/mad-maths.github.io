@@ -16,7 +16,7 @@ This post assumes basic knowledge of vector spaces, basis and quotienting (will 
 
 $\textbf{We begin by defining a free vector space-}$
 
-Given a set S, the free vector space over $\mathbb{F}$ on S is the set of all finite formal sums of elements of S over $\mathbb{F}$. 
+Given a set S, the free vector space is the set of all finite formal sums of elements of S over $\mathbb{F}$. 
 Denote it by $V(S)$
 
 For example - 
