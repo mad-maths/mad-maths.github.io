@@ -20,7 +20,7 @@ Let's look at a classic example - CHOMP.
 
 Here are the rules - 
 
-1. There is a rectangular chocolate bar with the bottom right piece poisoned.
+1. There is a rectangular chocolate bar with the bottom left piece poisoned.
 
 2. You are allowed to bite any piece, but all pieces to the right and above the chosen piece also disappear.
 
