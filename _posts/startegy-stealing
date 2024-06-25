@@ -12,12 +12,10 @@ that there are games you can win, without telling you how to win them ;)
 Many games in game throy require very long and complex analysis to come up with a winning startegy. But what if I tell you that 
 there are some games where you can win by simply - stealing your opponents startegy?
 
-Let me introduce this concept with an example and for that I will introduce a game called CRAM!
+Let's look at a classic example - CHOMP.
 
 
 
-Fianlly, let's look at a classic example - CHOMP.
-(image)
 
 Here are the rules - 
 
@@ -28,13 +26,18 @@ Here are the rules -
 3. The person who has to eat the poisoned piece loses.
 
 How do you win in such a game?
-Here's how, and pay careful attention to this proof - for it is not giving you a winning strategy anywhere, just a guarantee!
+
+Here's how, and pay careful attention to this proof - for it is not giving you a winning strategy anywhere, just a guarantee that you will win.
 
 The first player starts with biting any piece. If this was a winning move, they win! If not, the second player (who we now assume has a winning strategy bites the next piece.
 But this piece was available to the first player too (in his initial chance), hence the first player can just steal the 
 winning strategy of the seocnd player and win. 
 
-Let the craziness of this proof sink in!
+Let the craziness of this proof sink in! Just the absurdity of this proof, its non constructive nature, points at how beautiful maths is!
+
+Such proofs are very common in context of strategy stealing, this type of game theory technique does not usually give a explicit strategy. To explore more, check out Lessons in Play
+by David Wolfe, Michael H. Albert, and Richard J. Nowakowski.
+
 
 
 
