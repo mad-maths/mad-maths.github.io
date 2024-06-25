@@ -15,7 +15,7 @@ there are some games where you can win by simply - stealing your opponents start
 Let's look at a classic example - CHOMP.
 
 <center>
-<img src = "/assets/img/PENUP_20240621_220232.png" style = "width: 400px;"/>
+<img src = "/assets/img/PENUP_20240621_220232.png" style = "width: 500px;"/>
 </center>
 
 Here are the rules - 
