@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <div class="text-center"> Steal your opponents strategy </div>
+title: <div class="text-center"> CHOMP! </div>
 tags: []
 date: 2024-06-11
 author: Kashish Jaswani
@@ -14,8 +14,9 @@ there are some games where you can win by simply - stealing your opponents start
 
 Let's look at a classic example - CHOMP.
 
-
-assets/img/PENUP_20240621_220232.png
+<center>
+<img src = "/assets/img/PENUP_20240621_220232.png" style = "width: 400px;"/>
+</center>
 
 Here are the rules - 
 
