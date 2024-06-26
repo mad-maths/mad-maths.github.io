@@ -2,7 +2,7 @@
 layout: post
 title: <div class="text-center"> CHOMP! </div>
 tags: []
-date: 2024-06-11
+date: 2024-06-24
 author: Kashish Jaswani
 mathjax: true
 ---
