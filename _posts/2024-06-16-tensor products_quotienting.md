@@ -16,17 +16,15 @@ This post assumes basic knowledge of vector spaces, basis and quotienting (will 
 
 $\textbf{We begin by defining a free vector space-}$
 
-Given a set S, the free vector space is the set of all finite formal sums of elements of S over $\mathbb{F}$. 
+Given a set S, the free vector space is the set of all finite formal sums of elements of S over $\mathbb{F}$
 Denote it by $V(S)$
 
 For example - 
 1. Let S = {x}   
    Then, $V(S)$ = {ax $|$ a $\in$ R}.
-   
    Note, V(S) $\cong$ $\mathbb{R}$ $\cong$ $\mathbb{R}$ x.
 
 3. Take S = R.
-   
    $V(S)$ = $\{a_1v_1 + a_2v_2... + a_nv_n\}$
 
 Note that we cannot combine $a_1v_1 + a_2v_2...a_nv_n$ using normal rules of multiplication since $v_1, v_2..,v_n$ are linearly independent. 
