@@ -9,6 +9,7 @@ mathjax: true
 My previous blog posts covered the two definitions of tensor products. In this one we look at a mapping which shows that these two seemingly different approaches are in fact the same.
 
 From here onwards, we by denote [$V \otimes W$] as the space defined through quotienting, and 
+
 ($V \otimes W$) the space defined as maps on the dual spaces.
 
 Consider <center> $\kappa$ : [$V \otimes W] \rightarrow$ ($V \otimes W$) 
