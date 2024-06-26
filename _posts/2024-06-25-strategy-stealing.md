@@ -1,7 +1,7 @@
 ---
 layout: post
 title: <div class="text-center"> CHOMP! </div>
-tags: []
+tags: [CHOMP, game, winning strategy]
 date: 2024-06-24
 author: Kashish Jaswani
 mathjax: true
@@ -9,8 +9,7 @@ mathjax: true
 In this post, I am going to show you something really unconventional - something really unintuitive. By the end, I will convince you
 that there are games you can win, without telling you how to win them ;)
 
-Many games in game throy require very long and complex analysis to come up with a winning startegy. But what if I tell you that 
-there are some games where you can win by simply - stealing your opponents startegy?
+Many games in game theory require very long and complex analysis to come up with a winning startegy. But what if I tell you that there are some games where you can win by simply - stealing your opponents startegy? Just one thing to keep in mind is - you are the first player in these type of games.
 
 Let's look at a classic example - CHOMP.
 
@@ -32,11 +31,13 @@ Here's how, and pay careful attention to this proof - for it is not giving you a
 
 The first player starts with biting any piece. If this was a winning move, they win! If not, the second player (who we now assume has a winning strategy bites the next piece.
 But this piece was available to the first player too (in his initial chance), hence the first player can just steal the 
-winning strategy of the seocnd player and win. 
+winning strategy of the second player and win. 
 
 Let the craziness of this proof sink in! Just the absurdity of this proof, its non constructive nature, points at how beautiful maths is!
 
-Such proofs are very common in context of strategy stealing, this type of game theory technique does not usually give a explicit strategy. To explore more, check out Lessons in Play
+Such proofs are very common in context of strategy stealing, this type of game theory technique does not usually give a explicit strategy. Another thing to keep in mind is that while analysing games, we declare that a game is a first player or second player win from the starting position itself, because we are assuming optimal play from both sides. 
+
+To explore more, check out Lessons in Play
 by David Wolfe, Michael H. Albert, and Richard J. Nowakowski.
 
 
