@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <div class="text-center"> 'Tensor Products - part 1' </div>
+title: <div class="text-center"> Tensor Products - part 1 </div>
 tags: [Tensors, tensor product, explanantion of tensor product]
 date: 2024-06-26
 author: Kashish Jaswani
