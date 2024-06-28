@@ -10,7 +10,7 @@ $\textbf{What is the dual space?}$
 
 Given a vector space $V$, a linear functional is of the form f : $V \rightarrow \mathbb{F}$.
 
-The dual space, denoted by $V'$ is defined as <center> $V' = \{f | f : V \rightarrow \mathbb{F}\}$ <\center> this is a vector space under function addition and scalar multiplication. 
+The dual space, denoted by $V'$ is defined as <center> $V' = \{f | f : V \rightarrow \mathbb{F}\}$ </center> this is a vector space under function addition and scalar multiplication. 
 
 Now, to motivate this definition of the tensor product, we need to understand what a tensor product is trying to accomplish.
 
@@ -19,14 +19,14 @@ We are trying to find a natural way of multiplying elements of two vector spaces
 Let us see how. 
 
 $\textbf{What are bi-linear functionals?}$ 
-Given two vector spaces $V$ and $W$, a bi-linear functional is a map <center> $\beta$ : $V$ $\otimes$ $W \rightarrow \mathbb{F}$ <\center> which is linear in both its arguments. 
+Given two vector spaces $V$ and $W$, a bi-linear functional is a map <center> $\beta$ : $V$ $\otimes$ $W \rightarrow \mathbb{F}$ </center> which is linear in both its arguments. 
 The set of all such maps forms the vector space $B(V,W)$.
 
 Following is an example - 
 
-1. Fix $v \in V$, and consider the mapping \begin{center} $T : V'$ x $\mathbb{F} \rightarrow \mathbb{F}$ 
+1. Fix $v \in V$, and consider the mapping <center> $T : V'$ x $\mathbb{F} \rightarrow \mathbb{F}$ 
 
-$T(\psi,k) = k  \psi(v)$ \end{center} T is a bi-linear functional on $V'$ x $\mathbb{F}$
+$T(\psi,k) = k  \psi(v)$ </center> T is a bi-linear functional on $V'$ x $\mathbb{F}$
 
 2. Let <center> $\beta$ : $V$ x $V' \rightarrow \mathbb{F}$ 
 
@@ -44,7 +44,7 @@ So, to make a basis free definition, we define tensor products in the following 
 
 The space $V \otimes W$ = $B(V',W')$, which are the bilinear functionals on the space $V'$ x $W'$.
 
-Each element of this space is denoted by [$v \otimes w$] and defined as, <center> [$v \otimes w$]($\psi$, $\tau$) = $\psi$(v)$\tau$(w) <\center> where $\psi \in V'$ and $\tau \in W'.$
+Each element of this space is denoted by [$v \otimes w$] and defined as, <center> [$v \otimes w$]($\psi$, $\tau$) = $\psi$(v)$\tau$(w) </center> where $\psi \in V'$ and $\tau \in W'.$
 
 The space $B(V',W')$ also has dimension as mn. This is because a vector space and its dual has the same dimension. 
 
