@@ -19,7 +19,9 @@ We are trying to find a natural way of multiplying elements of two vector spaces
 Let us see how. 
 
 $\textbf{What are bi-linear functionals?}$ 
+
 Given two vector spaces $V$ and $W$, a bi-linear functional is a map <center> $\beta$ : $V$ $\otimes$ $W \rightarrow \mathbb{F}$ </center> which is linear in both its arguments. 
+
 The set of all such maps forms the vector space $B(V,W)$.
 
 Following is an example - 
