@@ -26,9 +26,10 @@ The set of all such maps forms the vector space $B(V,W)$.
 
 Following is an example - 
 
-1. Fix $v \in V$, and consider the mapping <center> $T : V'$ x $\mathbb{F} \rightarrow \mathbb{F}$ 
+1. Fix $v \in V$, and consider the mapping
+<center> $T : V'$ x $\mathbb{F} \rightarrow \mathbb{F}$ $T(\psi,k) = k  \psi(v)$ </center> 
 
-$T(\psi,k) = k  \psi(v)$ </center> T is a bi-linear functional on $V'$ x $\mathbb{F}$
+T is a bi-linear functional on $V'$ x $\mathbb{F}$
 
 2. Let <center> $\beta$ : $V$ x $V' \rightarrow \mathbb{F}$ 
 
