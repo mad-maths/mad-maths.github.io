@@ -7,6 +7,7 @@ author: Kashish Jaswani
 mathjax: true
 ---
 
+
 $\textbf{What is the dual space?}$
 
 Given a vector space $V$, a linear functional is of the form f : $V \rightarrow \mathbb{F}$.
