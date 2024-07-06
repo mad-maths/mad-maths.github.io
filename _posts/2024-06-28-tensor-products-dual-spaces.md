@@ -39,9 +39,7 @@ $\beta$ is a bi-linear functional on $V$ x $V'$.
 
 Intuitively, dim($B(V,W)$) = dim($V$)dim($W$) = mn. 
 
-While it will not be proved here, it is easy to see that every linear functional can be written as a (m x n) matrix, and every (m x n) matrix can be associated to a linear functional. These two spaces are isomorphic, so they have the same dimension. \\
-
-(why do we need basis free?????) 
+While it will not be proved here, it is easy to see that every linear functional can be written as a (m x n) matrix, and every (m x n) matrix can be associated to a linear functional. These two spaces are isomorphic, so they have the same dimension. 
 
 So, to make a basis free definition, we define tensor products in the following unconventional way - 
 
