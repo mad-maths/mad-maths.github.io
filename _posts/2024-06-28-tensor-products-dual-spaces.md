@@ -60,3 +60,6 @@ Using the given definition we can check that the space satisfies the following p
 3. $(\lambda v) \otimes w = \lambda(v \otimes w)$ 
 
 4. $v \otimes (\lambda w) = \lambda(v \otimes w)$.
+
+References - 
+1. Linear Algebra Done Right (4th ed) by Sheldon Axler.
