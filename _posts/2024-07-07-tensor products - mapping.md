@@ -2,7 +2,7 @@
 layout: post
 title: <div class="text-center"> Tensor Products - part 3 </div>
 tags: [Tensors, tensor product, explanantion of tensor product]
-date: 2024-06-26
+date: 2024-07-07
 author: Kashish Jaswani
 mathjax: true
 ---
