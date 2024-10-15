@@ -15,7 +15,7 @@ From here onwards, we by denote [$V \otimes W$] as the space defined through quo
 Consider 
 <center> $\kappa$ : [$V \otimes W] \rightarrow$ ($V \otimes W$) 
 where $\kappa$([v $\otimes$ w]) = (v $\otimes$ w)($\psi$, $\tau$) = $\psi(v)$ $\tau(w)$
-
+</center>
 
 for $\psi$ $\in$ $V'$ and $\tau$ $\in$ $W'$.
 
